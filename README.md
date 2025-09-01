@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Fella!! I'm Ferdian Baihaqi 👋
 
 <!--
 **Ferdtzy/Ferdtzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![one piece](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQ2amtyeHM3M2h4ODh0M3FpdzN3YXpkMWYzNnd2eTZlcXN4YjhxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rCdzKS756yiGs/giphy.gif)
+- 🔭 I’m currently working on **@Lk_Lik_corps**
+- 🌱 I’m currently learning **Laravel Framework**
